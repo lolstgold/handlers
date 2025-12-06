@@ -15,5 +15,5 @@
         "GRAVEYARD": {"emoji": "🪦", "color": "0x4B0082", "thumbnail_url": "https://maxstellar.github.io/biome_thumb/GRAVEYARD.png"},
         "NORMAL": {"emoji": "🌳", "color": "0x00FF00", "thumbnail_url": ""},
         "CYBERSPACE": {"emoji": "🌐", "color": "0x005ABA", "thumbnail_url": "https://maxstellar.github.io/biome_thumb/CYBERSPACE.png"},
-        "HEAVEN": {"emoji": "🪽", "color": "0xFFE054", "thumbnail_url": "https://tenor.com/view/hello-hello-meowl-meowl-meowl-cat-gif-13883418854411263942"},
+        "HEAVEN": {"emoji": "🪽", "color": "0xFFE054", "thumbnail_url": "https://tenor.com/view/hello-hello-meowl-meowl-meowl-cat-gif-13883418854411263942"}
     }
