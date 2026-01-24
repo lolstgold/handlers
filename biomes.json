@@ -16,5 +16,5 @@
         "NORMAL": {"emoji": "🌳", "color": "0x00FF00", "thumbnail_url": "", "ping": false},
         "CYBERSPACE": {"emoji": "🌐", "color": "0x005ABA", "thumbnail_url": "https://maxstellar.github.io/biome_thumb/CYBERSPACE.png", "ping": true},
         "HEAVEN": {"emoji": "🪽", "color": "0xFFE054", "thumbnail_url": "https://maxstellar.github.io/biome_thumb/HEAVEN.png", "ping": false},
-        "AURORA": {"emoji": "🌌", "color": "0xFFE054", "thumbnail_url": "https://static.wikia.nocookie.net/bss-test-realm/images/9/9e/Purple_Potion_Bee_-_83Kp0RDqtgI.png/revision/latest/scale-to-width-down/1000?cb=20250526032335", "ping": false}
+        "AURORA": {"emoji": "🌌", "color": "0x9ED5FF", "thumbnail_url": "https://static.wikia.nocookie.net/bss-test-realm/images/9/9e/Purple_Potion_Bee_-_83Kp0RDqtgI.png/revision/latest/scale-to-width-down/1000?cb=20250526032335", "ping": false}
     }
