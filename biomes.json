@@ -17,5 +17,6 @@
         "CYBERSPACE": {"emoji": "🌐", "color": "0x005ABA", "thumbnail_url": "https://maxstellar.github.io/biome_thumb/CYBERSPACE.png", "ping": true},
         "HEAVEN": {"emoji": "🪽", "color": "0xFFE054", "thumbnail_url": "https://maxstellar.github.io/biome_thumb/HEAVEN.png", "ping": false},
         "AURORA": {"emoji": "🌌", "color": "0x9ED5FF", "thumbnail_url": "https://static.wikia.nocookie.net/bss-test-realm/images/9/9e/Purple_Potion_Bee_-_83Kp0RDqtgI.png/revision/latest/scale-to-width-down/1000?cb=20250526032335", "ping": false},
-        "EGGLAND": {"emoji": "🧺", "color": "0xCBFF8F", "thumbnail_url": "", "ping": false}
+        "EGGLAND": {"emoji": "🧺", "color": "0xCBFF8F", "thumbnail_url": "", "ping": false},
+        "SINGULARITY": {"emoji": "🪐", "color": "0xFFB52B", "thumbnail_url": "", "ping": true}
     }
