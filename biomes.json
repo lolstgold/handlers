@@ -19,5 +19,8 @@
         "AURORA": {"emoji": "🌌", "color": "0x9ED5FF", "thumbnail_url": "https://static.wikia.nocookie.net/bss-test-realm/images/9/9e/Purple_Potion_Bee_-_83Kp0RDqtgI.png/revision/latest/scale-to-width-down/1000?cb=20250526032335", "ping": false, "count_logs": true},
         "EGGLAND": {"emoji": "🧺", "color": "0xCBFF8F", "thumbnail_url": "", "ping": false, "count_logs": false},
         "SINGULARITY": {"emoji": "🪐", "color": "0xFFB52B", "thumbnail_url": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/singularity.png", "ping": false, "count_logs": true},
-        "INCINERATOR": {"emoji": "🪔", "color": "0xFF6A19", "thumbnail_url": "https://static.wikitide.net/dreamspherewiki/c/c3/Mist2.png", "ping": false, "count_logs": true}
+        "INCINERATOR": {"emoji": "🪔", "color": "0xFF6A19", "thumbnail_url": "https://static.wikitide.net/dreamspherewiki/c/c3/Mist2.png", "ping": false, "count_logs": true},
+        "Mari": {"emoji": "🛍️", "color": "0xff82ab", "thumbnail_url": "", "ping": false, "count_logs": true},
+        "Jester": {"emoji": "🃏", "color": "0xa352ff", "thumbnail_url": "", "ping": false, "count_logs": true},
+        "Rin": {"emoji": "⛩️", "color": "0xffa200", "thumbnail_url": "", "ping": false, "count_logs": true}
     }
