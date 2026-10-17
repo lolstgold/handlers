@@ -21,7 +21,7 @@
         "SINGULARITY": {"emoji": "🪐", "color": "0xFFB52B", "thumbnail_url": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/singularity.png", "ping": false, "count_logs": true},
         "INCINERATOR": {"emoji": "🪔", "color": "0xFF6A19", "thumbnail_url": "https://static.wikitide.net/dreamspherewiki/c/c3/Mist2.png", "ping": false, "count_logs": true},
         "LOST FOREST": {"emoji": "🌳", "color": "0x0A6100", "thumbnail_url": "https://static.wikitide.net/dreamspherewiki/thumb/d/d5/InheritanceNavBox.png/200px-InheritanceNavBox.png", "ping": false, "count_logs": true},
-        "THE RADIANT FOREST": {"emoji": "☄️", "color": "0xAA17FF", "thumbnail_url": "https://static.wikitide.net/dreamspherewiki/thumb/4/4e/Pink_Swamp_%28Navbox%29.png/200px-Pink_Swamp_%28Navbox%29.png", "ping": false, "count_logs": true},
+        "THE RADIANT FOREST": {"emoji": "☄️", "color": "0xAA17FF", "thumbnail_url": "https://static.wikitide.net/dreamspherewiki/thumb/4/4e/Pink_Swamp_%28Navbox%29.png/200px-Pink_Swamp_%28Navbox%29.png", "ping": true, "count_logs": true},
         "Mari": {"emoji": "🛍️", "color": "0xff82ab", "thumbnail_url": "", "ping": false, "count_logs": true},
         "Jester": {"emoji": "🃏", "color": "0xa352ff", "thumbnail_url": "", "ping": false, "count_logs": true},
         "Rin": {"emoji": "⛩️", "color": "0xffa200", "thumbnail_url": "", "ping": false, "count_logs": true}
