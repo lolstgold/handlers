@@ -24,5 +24,6 @@
         "THE RADIANT FOREST": {"emoji": "☄️", "color": "0xAA17FF", "thumbnail_url": "https://static.wikitide.net/dreamspherewiki/thumb/4/4e/Pink_Swamp_%28Navbox%29.png/200px-Pink_Swamp_%28Navbox%29.png", "ping": false, "count_logs": true},
         "Mari": {"emoji": "🛍️", "color": "0xff82ab", "thumbnail_url": "", "ping": false, "count_logs": true},
         "Jester": {"emoji": "🃏", "color": "0xa352ff", "thumbnail_url": "", "ping": false, "count_logs": true},
-        "Rin": {"emoji": "⛩️", "color": "0xffa200", "thumbnail_url": "", "ping": false, "count_logs": true}
+        "Rin": {"emoji": "⛩️", "color": "0xffa200", "thumbnail_url": "", "ping": false, "count_logs": true},
+        "Sinister S": {"emoji": "🎃", "color": "0xffdbab", "thumbnail_url": "https://tr.rbxcdn.com/180DAY-e39927b0bc7b534362b84ea748271d57/420/420/Hat/Webp/noFilter", "ping": false, "count_logs": true}
     }
