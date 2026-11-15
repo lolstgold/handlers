@@ -25,5 +25,6 @@
         "Mari": {"emoji": "🛍️", "color": "0xff82ab", "thumbnail_url": "", "ping": false, "count_logs": true},
         "Jester": {"emoji": "🃏", "color": "0xa352ff", "thumbnail_url": "", "ping": false, "count_logs": true},
         "Rin": {"emoji": "⛩️", "color": "0xffa200", "thumbnail_url": "", "ping": false, "count_logs": true},
-        "Sinister S": {"emoji": "🎃", "color": "0xffdbab", "thumbnail_url": "https://tr.rbxcdn.com/180DAY-e39927b0bc7b534362b84ea748271d57/420/420/Hat/Webp/noFilter", "ping": false, "count_logs": true}
+        "Sinister S": {"emoji": "⚜️🎃⚜️", "color": "0xffdbab", "thumbnail_url": "https://tr.rbxcdn.com/180DAY-e39927b0bc7b534362b84ea748271d57/420/420/Hat/Webp/noFilter", "ping": false, "count_logs": true},
+        "Sinister P": {"emoji": "🏵️🎃🏵️", "color": "0xffb452", "thumbnail_url": "https://tr.rbxcdn.com/180DAY-d6b67f5808986daad43338e1c8d986d2/420/420/Hat/Webp/noFilter", "ping": false, "count_logs": true},
     }
