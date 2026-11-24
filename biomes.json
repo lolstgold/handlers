@@ -10,8 +10,8 @@
         "GLITCHED": {"emoji": "⚠️", "color": "0xFFFF00", "thumbnail_url": "https://raw.githubusercontent.com/lolstgold/handlers/refs/heads/main/sin%20t%C3%ADtudwqdwqqwdlo2.png", "ping": true, "count_logs": true},
         "DREAMSPACE": {"emoji": "💤", "color": "0xFF00FF", "thumbnail_url": "https://raw.githubusercontent.com/lolstgold/handlers/refs/heads/main/sin%20t%C3%ADtudwqdwqqwdlo2.png", "ping": true, "count_logs": true},
         "BLAZING SUN": {"emoji": "☀️", "color": "0xFFD700", "thumbnail_url": "https://static.wikia.nocookie.net/fcs-vs-battle/images/2/2c/Annoying_Dog_Render.png/revision/latest/scale-to-width-down/340?cb=20180730225500", "ping": false, "count_logs": true},
-        "BLOOD RAIN": {"emoji": "🩸", "color": "0x8B0000", "thumbnail_url": "https://purestellenium.github.io/biome_thumb/BLOOD%20RAIN.png", "ping": false, "count_logs": true},
-        "PUMPKIN MOON": {"emoji": "🎃", "color": "0xFF8C00", "thumbnail_url": "https://purestellenium.github.io/biome_thumb/PUMPKIN%20MOON.png", "ping": false, "count_logs": true},
+        "BLOOD RAIN": {"emoji": "🩸", "color": "0x8B0000", "thumbnail_url": "https://purestellenium.github.io/biome_thumb/BLOOD%20RAIN.png", "ping": false, "count_logs": false},
+        "PUMPKIN MOON": {"emoji": "🎃", "color": "0xFF8C00", "thumbnail_url": "https://purestellenium.github.io/biome_thumb/PUMPKIN%20MOON.png", "ping": false, "count_logs": false},
         "GRAVEYARD": {"emoji": "🪦", "color": "0x4B0082", "thumbnail_url": "https://purestellenium.github.io/biome_thumb/GRAVEYARD.png", "ping": false, "count_logs": true},
         "NORMAL": {"emoji": "🌳", "color": "0x00FF00", "thumbnail_url": "https://tr.rbxcdn.com/180DAY-d637eedf714f615b2636eaa87e9003b1/420/420/AvatarBackground/Webp/noFilter", "ping": false, "count_logs": false},
         "CYBERSPACE": {"emoji": "🌐", "color": "0x005ABA", "thumbnail_url": "https://raw.githubusercontent.com/lolstgold/handlers/refs/heads/main/cyberspacelol.png", "ping": true, "count_logs": true},
@@ -22,9 +22,10 @@
         "INCINERATOR": {"emoji": "🪔", "color": "0xFF6A19", "thumbnail_url": "https://static.wikitide.net/dreamspherewiki/c/c3/Mist2.png", "ping": false, "count_logs": true},
         "LOST FOREST": {"emoji": "🌳", "color": "0x0A6100", "thumbnail_url": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/lost%20forest.png", "ping": false, "count_logs": true},
         "THE RADIANT FOREST": {"emoji": "☄️", "color": "0xAA17FF", "thumbnail_url": "https://static.wikitide.net/dreamspherewiki/thumb/4/4e/Pink_Swamp_%28Navbox%29.png/200px-Pink_Swamp_%28Navbox%29.png", "ping": false, "count_logs": true},
-        "Mari": {"emoji": "🛍️", "color": "0xff82ab", "thumbnail_url": "", "ping": false, "count_logs": true},
-        "Jester": {"emoji": "🃏", "color": "0xa352ff", "thumbnail_url": "", "ping": false, "count_logs": true},
-        "Rin": {"emoji": "⛩️", "color": "0xffa200", "thumbnail_url": "", "ping": false, "count_logs": true},
-        "Sinister S": {"emoji": "⚜️🎃⚜️", "color": "0xffdbab", "thumbnail_url": "https://tr.rbxcdn.com/180DAY-e39927b0bc7b534362b84ea748271d57/420/420/Hat/Webp/noFilter", "ping": false, "count_logs": true},
-        "Sinister P": {"emoji": "🏵️🎃🏵️", "color": "0xffb452", "thumbnail_url": "https://tr.rbxcdn.com/180DAY-d6b67f5808986daad43338e1c8d986d2/420/420/Hat/Webp/noFilter", "ping": false, "count_logs": true}
+        "Mari": {"emoji": "🛍️", "color": "0xff82ab", "thumbnail_url": "", "ping": false, "count_logs": true, "merchant": "18247165978"},
+        "Jester": {"emoji": "🃏", "color": "0xa352ff", "thumbnail_url": "", "ping": false, "count_logs": true, "merchant": "18247420806"},
+        "Rin": {"emoji": "⛩️", "color": "0xffa200", "thumbnail_url": "", "ping": false, "count_logs": true, "merchant": "97148159887178"},
+        "Sinister S": {"emoji": "⚜️🎃⚜️", "color": "0xffdbab", "thumbnail_url": "https://tr.rbxcdn.com/180DAY-e39927b0bc7b534362b84ea748271d57/420/420/Hat/Webp/noFilter", "ping": false, "count_logs": true, "merchant": "136698315787897"},
+        "Sinister P": {"emoji": "🏵️🎃🏵️", "color": "0xffb452", "thumbnail_url": "https://tr.rbxcdn.com/180DAY-d6b67f5808986daad43338e1c8d986d2/420/420/Hat/Webp/noFilter", "ping": false, "count_logs": true, "merchant": "138220970463286"},
+        "Era 8 glitch": {"emoji": "⚠️", "color": "0xFFFF00", "thumbnail_url": "https://i.postimg.cc/mDzwFfX1/GLITCHED.png", "ping": false, "count_logs": true, "merchant": "7144894845"}
     }
